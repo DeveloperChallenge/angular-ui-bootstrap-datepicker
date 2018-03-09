@@ -1,0 +1,30 @@
+{
+  "name": "angularuidatetimepicker",
+  "version": "1.0.0",
+  "description": "Angular ui bootstrap css issue solved, change angular ui bootstrap daet picker css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "datepicker",
+    "angular",
+    "bootstrap",
+    "datepicker",
+    "angular",
+    "time",
+    "picker",
+    "chage",
+    "angular",
+    "ui",
+    "bootstrap",
+    "datepicker",
+    "design"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.9"
+  }
+}
