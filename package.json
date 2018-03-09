@@ -17,14 +17,14 @@
     "picker",
     "chage",
     "angular",
-    "ui",
-    "bootstrap",
-    "datepicker",
+    "bootstrap-ui-bootstrap-datepicker",
     "design"
   ],
   "author": "Mahesh",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.9"
+    "angular": "^1.6.9",
+    "angular-ui-bootstrap": "^2.5.6",
+    "bootstrap": "^3.3.7"
   }
 }
